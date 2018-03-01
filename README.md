@@ -15,7 +15,7 @@ see [Jenkins](https://jenkins.io/)
 ## Creating a simple pipeline
 
 1. Fork this repository.
-2. Click the **New Item** menu within Jenkins
+2. Click the **New Item** menu within Jenkins.
 3. Provide a name for your new item and select **Multibranch Pipeline**.
 4. Click the **Add Source** button, choose the type of repository you want to use (github) and fill in the details. In the **Branch sources**, it's recommended to insert your github credentials, in order to avoid *rate limit exceeded* problems.
 5. Click the Save button and watch the pipeline run.
